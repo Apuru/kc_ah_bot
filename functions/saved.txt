@@ -1,0 +1,43 @@
+Rand_ControlClick(62,244,106,292) ;; home resupply 
+
+Rand_ControlClick(11,55,90,125) ;; click home button 
+
+Rand_ControlClick(265,262,331,313) ;; no night battle 
+
+Rand_ControlClick(478,264,546,314) ;; yes night battle 
+
+Rand_ControlClick(702,454,760,503) ;; click bottom right button
+
+Rand_ControlClick(477,264,550,316) ;; end mission 
+
+Rand_ControlClick(14,237,39,270) ;; click side resupply button 
+
+Rand_ControlDoubleClick(119,160,132,174) ;; select all ships 
+
+
+Rand_ControlClick(15,345,39,378) ;; click side repair button 
+Rand_ControlClick(349,352,737,498) ;; trigger clear screen (not within range of pursuit or no pursuit buttons)
+Rand_ControlClick(15,182,41,216) ;; click side organize
+
+Rand_ControlClick(727,481,784,500) ;; click last kanmusu
+
+Rand_ControlClick(187,197,335,226) ;; slot 1 of repair slots
+Rand_ControlClick(184,277,335,309) ;; slot 2 of repair slots
+Rand_ControlClick(185,359,335,391) ;; slot 3 of repair slots
+Rand_ControlClick(186,439,336,469) ;; slot 4 of repair slots
+
+Rand_ControlClick(416,174,765,196) ;; click slot 1 of repair list
+Rand_ControlClick(419,209,758,227) ;; click slot 2 of repair list
+Rand_ControlClick(423,243,756,257) ;; click slot 3 of repair list
+Rand_ControlClick(420,271,759,290) ;; click slot 4 of repair list
+
+Rand_ControlClick(410,207,726,226) ;; click slot 1 
+Rand_ControlClick(406,235,711,253) ;; click slot 2 
+Rand_ControlClick(407,262,734,281) ;; click slot 3 
+Rand_ControlClick(409,291,741,308) ;; click slot 4 
+Rand_ControlClick(408,318,738,338) ;; click slot 5
+Rand_ControlClick(405,346,722,366) ;; click slot 6 
+Rand_ControlClick(403,374,740,394) ;; click slot 7 
+Rand_ControlClick(406,403,743,422) ;; click slot 8 
+Rand_ControlClick(412,430,730,449) ;; click slot 9 
+Rand_ControlClick(410,461,733,476) ;; click slot 10 
